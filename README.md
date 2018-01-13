@@ -5,4 +5,4 @@ an interactive plot in Bokeh.  I would welcome any modifications or ideas, espec
 quite figure out the plot tools and how to keep all the common tools like wheel_zoom and pan.  Thanks for any suggestions!
 
 You can use the following link to view the notebook rendered for easy viewing:
-http://htmlpreview.github.io/?https://github.com/obxkid413/Fantasy-Football-Analysis-2017/blob/master/Published_Fantasy2017.html
+http://htmlpreview.github.io/?https://github.com/obxkid413/Fantasy-Football-Analysis-2017/blob/master/Published_Fantasy2017-2.html
