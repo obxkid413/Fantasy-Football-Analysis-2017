@@ -135,7 +135,7 @@ tools = [hover, WheelZoomTool(), PanTool(), BoxZoomTool(), ResetTool()]
 
 p = figure(tools=[HoverTool(tooltips=[('Player', '@player'),
                                       ('Total', '@sum'),
-                                      ('Average', '@median')])])
+                                      ('Median', '@median')])])
 
 #p = figure(title="Fantasy Football 2017 Performances", tools=TOOLS)
 
